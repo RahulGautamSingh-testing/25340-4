@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "matchDepNames": ["xmldoc"],
+      "labels": "npm"
+    }
+  ],
+  "prHourlyLimit": 10
+}
